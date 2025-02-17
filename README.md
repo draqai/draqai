@@ -4,6 +4,8 @@
 
 <p align="center"> <strong>Frontend</strong> engineer. Know me more at my <a href="https://x.com/draqai" target="_blank"> Draq.</a></p>
 
+<h1 align="center"><img src="https://raw.githubusercontent.com/draqai/draqai/refs/heads/main/draq-ai.png"  width="1200px" style="max-width: 100%;"> $DRAQ Token</h1>
+
 ---
 
 ### 💫 Tech Stack and Tools
