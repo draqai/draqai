@@ -6,6 +6,8 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/draqai/draqai/refs/heads/main/draq-ai.png"  width="1200px" style="max-width: 100%;"> $DRAQ Token</h1>
 
+<p align="center"> <strong>Contract </strong> about <a href="https://bscscan.com/token/0xB2734a6ADA797Bd8512A3A11637809F07429eeBf">0xB2734a6ADA797Bd8512A3A11637809F07429eeBf</a></span></p>
+
 ---
 
 ### 💫 Tech Stack and Tools
